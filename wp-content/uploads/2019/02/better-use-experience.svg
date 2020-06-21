@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="42px" height="42px" viewBox="0 0 42 42" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 53.1 (72631) - https://sketchapp.com -->
+    <title>smile</title>
+    <desc>Created with Sketch.</desc>
+    <g id="Homepage" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Metomic-/-Homepage" transform="translate(-1103.000000, -1857.000000)">
+            <g id="Group-3" transform="translate(150.000000, 1616.000000)">
+                <g id="Group-9-Copy-2" transform="translate(806.000000, 237.000000)">
+                    <g id="smile" transform="translate(143.000000, 0.000000)">
+                        <rect id="bound" x="0" y="0" width="50" height="50"></rect>
+                        <rect id="Combined-Shape" fill="#FF3464" fill-rule="nonzero" opacity="0.3" x="4.16666667" y="4.16666667" width="41.6666667" height="41.6666667" rx="20.8333333"></rect>
+                        <path d="M12.8498952,30.3222921 C12.2116609,29.3649406 12.4703565,28.0714629 13.4277079,27.4332285 C14.3850594,26.7949942 15.6785372,27.0536898 16.3167714,28.0110413 C18.7272612,31.626776 21.5715235,33.3333333 25,33.3333333 C28.4284765,33.3333333 31.2727388,31.626776 33.6832285,28.0110413 C34.3214629,27.0536898 35.6149406,26.7949942 36.5722921,27.4332285 C37.5296435,28.0714629 37.7883392,29.3649406 37.1501048,30.3222921 C34.005039,35.0398906 29.9048569,37.5 25,37.5 C20.0951431,37.5 15.994961,35.0398906 12.8498952,30.3222921 Z" id="Path-56" fill="#FF3464" fill-rule="nonzero"></path>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="20px" height="26px" viewBox="0 0 20 26" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 53.1 (72631) - https://sketchapp.com -->
+    <title>shield-protected</title>
+    <desc>Created with Sketch.</desc>
+    <g id="Features" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Metomic-/-Features" transform="translate(-865.000000, -1840.000000)">
+            <g id="Group-23" transform="translate(810.000000, 1642.000000)">
+                <g id="shield-protected" transform="translate(50.000000, 195.000000)">
+                    <rect id="bound" x="0" y="0" width="30" height="30"></rect>
+                    <path d="M5,5 L14.5392786,3.21138525 C14.8437731,3.15429254 15.1562269,3.15429254 15.4607214,3.21138525 L25,5 L25,16.6037618 C25,20.2717326 23.110433,23.6809794 20,25.625 L15.6624986,28.3359384 C15.2571609,28.5892745 14.7428391,28.5892745 14.3375014,28.3359384 L10,25.625 C6.88956698,23.6809794 5,20.2717326 5,16.6037618 L5,5 Z" id="Path-50" fill="#FF3464" opacity="0.3"></path>
+                    <path d="M18.125,13.75 C18.8153559,13.75 19.375,14.3096441 19.375,15 L19.375,18.75 C19.375,19.4403559 18.8153559,20 18.125,20 L11.875,20 C11.1846441,20 10.625,19.4403559 10.625,18.75 L10.625,15 C10.625,14.3096441 11.1846441,13.75 11.875,13.75 L11.875,13.125 C11.875,11.3991102 13.2741101,10 15,10 C16.7258899,10 18.125,11.3991102 18.125,13.125 L18.125,13.75 Z M15,11.25 C13.9644661,11.25 13.125,12.0894661 13.125,13.125 L13.125,13.75 L16.875,13.75 L16.875,13.125 C16.875,12.0894661 16.0355339,11.25 15,11.25 Z" id="Combined-Shape" fill="#FF3464" fill-rule="nonzero"></path>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

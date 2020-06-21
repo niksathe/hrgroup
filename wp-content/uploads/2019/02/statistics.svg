@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="24px" height="19px" viewBox="0 0 24 19" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 53.1 (72631) - https://sketchapp.com -->
+    <title>stairs</title>
+    <desc>Created with Sketch.</desc>
+    <g id="Features" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Metomic-/-Features" transform="translate(-863.000000, -2012.000000)">
+            <g id="Group-23" transform="translate(810.000000, 1642.000000)">
+                <g id="stairs" transform="translate(50.000000, 365.000000)">
+                    <rect id="bound" x="0" y="0" width="30" height="30"></rect>
+                    <path d="M26.25,6.875 L26.25,21.875 C26.25,22.9105339 25.4105339,23.75 24.375,23.75 L5.625,23.75 C4.5894661,23.75 3.75,22.9105339 3.75,21.875 L3.75,18.125 C3.75,17.0894661 4.5894661,16.25 5.625,16.25 L11.25,16.25 L11.25,11.875 C11.25,10.8394661 12.0894661,10 13.125,10 L18.75,10 L18.75,6.875 C18.75,5.8394661 19.5894661,5 20.625,5 L24.375,5 C25.4105339,5 26.25,5.8394661 26.25,6.875 Z" id="Path-6" fill="#FF3464"></path>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

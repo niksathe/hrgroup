@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="44px" height="44px" viewBox="0 0 44 44" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 53.1 (72631) - https://sketchapp.com -->
+    <title>Group 13</title>
+    <desc>Created with Sketch.</desc>
+    <g id="Features" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Metomic-/-Features" transform="translate(-605.000000, -1169.000000)">
+            <g id="Group-8" transform="translate(243.000000, 847.000000)">
+                <g id="Group-2-Copy" transform="translate(308.000000, 292.000000)">
+                    <g id="22-check" transform="translate(15.000000, 30.000000)">
+                        <g id="Group-4" transform="translate(39.000000, 0.000000)">
+                            <g id="Group-13">
+                                <path d="M22,44 C9.8497355,44 0,34.1502645 0,22 C0,9.8497355 9.8497355,0 22,0 C34.1502645,0 44,9.8497355 44,22 C44,34.1502645 34.1502645,44 22,44 Z M22,36.08 C29.7761693,36.08 36.08,29.7761693 36.08,22 C36.08,14.2238307 29.7761693,7.92 22,7.92 C14.2238307,7.92 7.92,14.2238307 7.92,22 C7.92,29.7761693 14.2238307,36.08 22,36.08 Z" id="Combined-Shape" fill="#F5F7FA"></path>
+                                <path d="M-1.77635684e-15,22 L7.92,22 C7.92,29.7761693 14.2238307,36.08 22,36.08 C29.7761693,36.08 36.08,29.7761693 36.08,22 C36.08,14.2238307 29.7761693,7.92 22,7.92 L22,0 C34.1502645,0 44,9.8497355 44,22 C44,34.1502645 34.1502645,44 22,44 C9.8497355,44 0,34.1502645 0,22 Z" id="Combined-Shape" fill="#FF3464"></path>
+                            </g>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
